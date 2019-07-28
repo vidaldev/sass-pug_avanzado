@@ -1,8 +1,8 @@
 .DS_Store
 node_modules/
-materials/
 npm-debug.log
 yarn-error.log
+materials/
 
 # Editor directories and files
 .idea
